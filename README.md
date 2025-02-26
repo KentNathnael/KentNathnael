@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I'm Kent Nathanael 
+
 
 <!--160
 **KNT06/KNT06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
