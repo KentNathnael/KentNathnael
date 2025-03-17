@@ -2,7 +2,7 @@
 ## I'm Kent Nathanael 
 
 <div align="center">
-  <img height="200" src="">
+  <img height="200" src="https://github.com/KentNathnael/KentNathnael/blob/main/giphy.gif">
 </div>
 <!--160
 **KNT06/KNT06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
