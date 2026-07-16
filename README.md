@@ -30,7 +30,7 @@ I'm a Computer Science student interested in developing web and mobile applicati
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/kent-nathanael06" target="_blank">
+  <a href="https://www.linkedin.com/in/kent-nathanael06" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
@@ -70,6 +70,21 @@ I'm a Computer Science student interested in developing web and mobile applicati
     <img src="https://streak-stats.demolab.com?user=KentNathnael&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="Kent Nathanael's GitHub Streak"/>
   </a>
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KentNathnael/KentNathnael/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KentNathnael/KentNathnael/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Kent Nathanael Contribution Snake"
+    src="https://raw.githubusercontent.com/KentNathnael/KentNathnael/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
