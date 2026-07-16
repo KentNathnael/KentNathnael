@@ -1,29 +1,78 @@
-# Hi 👋, I'm Kent Nathanael
+# Hi 👋
+I'm **Kent Nathanael**
+
+<img
+  align="right"
+  width="250"
+  alt="Kent Nathanael Coding"
+  src="https://raw.githubusercontent.com/KentNathnael/KentNathnael/main/giphy.gif"
+/>
 
 ### Application Development & Data Enthusiast
 
-- 🔭 I'm currently working on **Multi vendor Rent Website Project**
+I'm a Computer Science student interested in developing web and mobile applications, exploring data-driven solutions, and continuously learning new technologies.
 
-- 🌱 I'm currently learning **Laravel, Swift**
+- 🔭 Currently working on **SI-RENT — a Multi-Vendor Rental Website**
+- 🌱 Currently learning **Laravel and Swift**
+- 💡 Interested in **Web Development, Mobile Development, and Data**
+- 💬 Ask me about **Web Development and Application Development**
+- 📫 Reach me at **[kentnathanael06@gmail.com](mailto:kentnathanael06@gmail.com)**
+- 🔗 Find my projects and other links on **[Linktree](https://linktr.ee/KentNathnael)**
 
-- 💬 Ask me about **Web Dev & App Dev **
+<br clear="right"/>
 
-- 📫 How to reach me **kentnathanael06@gmail.com**
+---
 
-- 📝 I regularly write articles on **[https://linktr.ee/KentNathnael](https://linktr.ee/KentNathnael)**
+## Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/KentNathnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KentNathnael" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Kent Nathanael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kent Nathanael" height="30" width="40" /></a>
+  <a href="https://github.com/KentNathnael" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="www.linkedin.com/in/kent-nathanael06" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kentnathanael06@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KentNathnael&show_icons=true&locale=en&layout=compact" alt="KentNathnael" /></p>
+## Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KentNathnael&show_icons=true&locale=en" alt="KentNathnael" /></p>
+### Programming Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KentNathnael&" alt="KentNathnael" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,js,php,py,swift" alt="Programming Languages"/>
+</p>
 
+### Frameworks and Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,spring,bootstrap,html,css" alt="Frameworks and Technologies"/>
+</p>
+
+### Databases and Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,androidstudio,vscode,anaconda" alt="Development Tools"/>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=KentNathnael&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="Kent Nathanael's GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building applications, exploring data, and continuously improving one commit at a time.</i>
+</p>
